@@ -1,1 +1,1 @@
-A starter for Electron app with configured Vite, React and Tailwindcss
+Starter project for Electron app with configured Vite, React and TailwindCSS
